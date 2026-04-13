@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Chauhan Jenish
 
-<!--
-**chauhanjenish/chauhanjenish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻Frontend Developer  
+🚀 I build modern web apps using React. 
+📍 Gujarat, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- React, JavaScript, HTML, CSS  
+- .NET C#
+- MySql
+- PHP
+- PYTHON(BASIC)  
+
+---
+
+## 📌 Projects
+- E-Commerce Website  in using PHP with Mysql.
+- User Management 
+- Portfolio Website  
+
+---
+
+## 📫 Contact
+- LinkedIn: https://linkedin.com/in/chauhanjenish
+- Email: chauhanjenish6298@gmail.com
