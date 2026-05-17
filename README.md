@@ -2,7 +2,7 @@
 
 💻Frontend Developer  
 🚀 I build modern web apps using React. 
-📍 Gujarat, India  
+📍 Surat,Gujarat, India  
 
 ---
 
